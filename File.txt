@@ -1,1 +1,3 @@
-linijka wsb
+
+linijki (wsb i bugfix)
+
